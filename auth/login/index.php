@@ -29,7 +29,7 @@
 					<div class="wrap d-md-flex">
 						<div class="text-wrap p-4 p-lg-5 text-center d-flex align-items-center order-md-last">
 							<div class="text w-100">
-								<h2>Welcome to TH Logistics</h2>
+								<h2>Welcome to TMDT Trung Việt</h2>
 								<p>Bạn chưa có tài khoản?</p>
 								<a href="../register/index.php" class="btn btn-white btn-outline-white">Đăng Ký</a>
 							</div>

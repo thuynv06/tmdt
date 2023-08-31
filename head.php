@@ -8,7 +8,7 @@
     <link href="favicon.png" rel="icon">
     <meta name="keywords" content="Default Description">
     <meta name="description" content="Default keyword">
-    <title>TH - Logistics</title>
+    <title>TMDT Trung Việt</title>
     <!-- Fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap"
           rel="stylesheet">
