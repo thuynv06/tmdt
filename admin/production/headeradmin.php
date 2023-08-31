@@ -24,7 +24,7 @@ $th1688Repository = new Th1688Repository();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/favicon.ico" type="image/ico"/>
 
-    <title>Th Logistics Manager! | </title>
+    <title>TMDT Trung Việt Manager! | </title>
 
     <!-- Bootstrap -->
     <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">

@@ -239,12 +239,12 @@ if (isset($_POST['removeKyGui'])) {
                                 } ?>"
                                        name="status" type="text" class="form-control"></td>
                         </tr>
-                        <tr style="min-width:100px">
-                            <th>Lợi Nhuận (VNĐ)</th>
-                            <td>
-                                <h4 style="color: green;font-weight: bold;margin-top: 6px; text-indent: 20px;"><?php echo product_price($loinhuan) ?></h4>
-                            </td>
-                        </tr>
+<!--                        <tr style="min-width:100px">-->
+<!--                            <th>Lợi Nhuận (VNĐ)</th>-->
+<!--                            <td>-->
+<!--                                <h4 style="color: green;font-weight: bold;margin-top: 6px; text-indent: 20px;">--><?php //echo product_price($loinhuan) ?><!--</h4>-->
+<!--                            </td>-->
+<!--                        </tr>-->
                         <tr style="min-width:100px">
                             <th>Thu Khác</th>
                             <td><input min="0" max="99999999999" name="thukhac" type="number" step="0.01"
